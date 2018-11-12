@@ -12,4 +12,4 @@ class TestContact:
 
     def test_3(self):
         print("3")
-        assert 0
+        assert 1
